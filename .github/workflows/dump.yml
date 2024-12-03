@@ -1,4 +1,4 @@
-name: Spacewar Firmware Dumper
+name: SDM Firmware Dumper
 
 on:
   workflow_dispatch:
